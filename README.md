@@ -10,13 +10,11 @@ I am a responsible and dedicated college student with an excellent work ethic. I
 
 ## Experience
 **Planned Parenthood** (Jan 2016 - Jan 2020)   
-
 Teen Action Group Intern
 - Taught Sex Education to middle school and high schoolers in Georgia through the TAG program.
 - Tabled at festivals and attended conferences as a representative of Planned Parenthood Southeast.
 
-**Mount Holyoke College** (Aug 2021 - Present)
-
+**Mount Holyoke College** (Aug 2021 - Present)   
 Disability Services Fellow
 - Something?
 
@@ -26,10 +24,8 @@ Disability Services Fellow
 - Accomplishment 
 
 ## Education
-**Mount Holyoke College** (Aug 2021 - May 2025)
-
-Bachelor of Arts - BA, Film/Cinema/Video Studies, Psychology, Public Policy and Human Rights
-
+**Mount Holyoke College** (Aug 2021 - May 2025)    
+Bachelor of Arts - BA, Film/Cinema/Video Studies, Psychology, Public Policy and Human Rights   
 Current Year: Junior
 - Activities and societies: Ice Hockey, Tech Theater Crew, Stage Productions, DND Club, Fimble Lab
 - Courses, activities, or other details
