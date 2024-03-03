@@ -6,9 +6,9 @@ description: Grace's work and project experience
 
 show_downloads: false # Fix spelling
 
-theme: jekyll-theme-minimal 
-
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag # Add SEO plugin
 
 email: grace@macmynatt.com # Allow visitors to contact you
